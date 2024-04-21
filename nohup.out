@@ -1,0 +1,10 @@
+Number of restarts: 0
+Number of restarts: 0
+Number of restarts: 1
+Number of restarts: 2
+Number of restarts: 2
+Number of restarts: 3
+Number of restarts: 3
+Number of restarts: 4
+Maximum number of restarts exceeded. RED button executed...
+deployment.apps/swype-app scaled
