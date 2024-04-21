@@ -1,0 +1,2 @@
+To address the toil in the ticketing system, we can integrate the ticketing system with monitoring and incident management solutions. Some advanced ticketing systems are able to prioritize and handle recurring obsolete alerts with built-in tools like Jira service desk and OpsGenie.
+Or integrate a ticketing system with Prometheus and an alerting and incident management solution like xMatters and Zenduty.
